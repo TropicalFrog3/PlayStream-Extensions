@@ -1,0 +1,5 @@
+{
+  "extensions": [
+    "https://raw.githubusercontent.com/TropicalFrog3/PlayStream-Example-Extension/refs/heads/main/manifest.json",
+  ]
+}
