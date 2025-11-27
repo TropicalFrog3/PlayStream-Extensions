@@ -1,6 +1,5 @@
 {
   "extensions": [
-    "https://raw.githubusercontent.com/TropicalFrog3/PlayStream-Example-Extension/refs/heads/main/example-extension/manifest.json",
-    "https://raw.githubusercontent.com/TropicalFrog3/PlayStream-French-Anime/refs/heads/main/manifest.json"
+    "https://raw.githubusercontent.com/TropicalFrog3/HDSS/refs/heads/main/manifest.json"
   ]
 }
